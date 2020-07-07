@@ -6,11 +6,11 @@ For this year's challenge we want you to build solutions that can help small bus
 
 This means identifying ways through which data can be used to provide actionable insights to businesses. Teams will be required to supplement the available data from small businesses with additional open source datasets (e.g. weather, traffic, and relevant location based services such as ATM’s) to build out specific insights for the small businesses. 
 
-This year the entire event will be run remotely on MS Teams. As always business & technology mentors will be available from the sponsors to assist you. Please make use of their expertise.
+This year the entire event will be run remotely on MS Teams. As always, business & technology mentors will be available from the sponsors to assist you. Please make use of their expertise.
 
 The data science challenge starts as soon as the data is available (07-07-2020) and runs until the end of the hackathon, Sunday morning the 2nd of August. This means you have just over three weeks to work on the data, generate ideas and come up with innovative ideas around using data to support small businesses. 
 
-There will be two separate session on Sunday where you will pitch your solution to a panel of judges via a MS Team video call.
+There will be two separate session on Sunday where you will pitch your solution to a panel of judges via a MS Teams video call.
 
 The rest of this guide sets out everything you need to know about the event.
 
@@ -38,11 +38,11 @@ Criteria | Description
 
 From previous events we'd like to offer you the following tips:
 
-* You'll have 7 minutes to pitch your solution to the judges, in that time it is your responsibility to give them enough info as per the above criteria to evaluate your solution.
+* You'll have 7 minutes to pitch your solution to the judges. Use the time wisely and ensure that you provide sufficient information to enable the judges to evaluate the solution based on the criteria.
 
 * The judges will have 3 minutes to ask you clarifying questions, be brief and to the point in your answers.
 
-* Don't just focus on a pure machine learning approach. Think though the business value that you will generate by unlocking insights from data, and whether or not that will ultimately improve a business.
+* Don't just focus on a pure machine learning approach. Think through the business value that you will generate by unlocking insights from data, and whether or not that will ultimately improve a business.
 
 * Don't wait until the weekend before working through the data, and don't code until the last minute. Rather reduce your scope to make time to practice your presentation.
 
