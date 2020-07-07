@@ -60,12 +60,12 @@ From previous events we'd like to offer you the following tips:
 
 * Different types of businesses from different areas of the country was selected to provide different avenues of exploration.
 
-* Some basic client demographics has been provided for some food for thought, this will only be available for Capitec clients that use the business. 
+* Some basic client demographics has been provided as food for thought, this will only be available for Capitec clients that use the business. 
 
-* Since a very limited view of a business is shared (limited fields), it is up to you to enhance with additional data sources you can find.
+* Given the limited view of each business provided, it is up to you to enhance with additional data sources you can find.
 
-* The specific businesses cannot be shared, but since the area code is shared you could tag any known business in the town/city if you want to use specific geolocation data. 
+* The specific business name cannot be shared, but since the area code is provided you could tag any known business in the town/city, if you want to use specific geolocation data. 
 
 ## 4. Additional Info
 
-* An ask the expert session is planned, details to be shared at a later stage, watch this space. 
+* An 'Ask the Expert' session is planned, details to be shared at a later stage, watch this space. 
