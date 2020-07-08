@@ -60,7 +60,7 @@ From previous events we'd like to offer you the following tips:
 
 * Different types of businesses from different areas of the country was selected to provide different avenues of exploration.
 
-* Some basic client demographics have been provided as food for thought, this will only be available for Capitec clients that used their cards the business. 
+* Some basic client demographics have been provided as food for thought, this will only be available for Capitec clients that used their cards at the business. 
 
 * Given the limited view of each business provided, it is up to you to enhance with additional data sources you can find.
 
