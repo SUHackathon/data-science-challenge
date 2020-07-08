@@ -10,7 +10,7 @@ This year the entire event will be run remotely on MS Teams. As always, business
 
 The data science challenge starts as soon as the data is available (07-07-2020) and runs until the end of the hackathon, Sunday morning the 2nd of August. This means you have just over three weeks to work on the data, generate ideas and come up with innovative ideas around using data to support small businesses. 
 
-There will be two separate session on Sunday where you will pitch your solution to a panel of judges via a MS Teams video call.
+There will be two separate sessions on Sunday where you will pitch your solution to a panel of judges via an MS Teams video call.
 
 The rest of this guide sets out everything you need to know about the event.
 
@@ -38,7 +38,7 @@ Criteria | Description
 
 From previous events we'd like to offer you the following tips:
 
-* You'll have 7 minutes to pitch your solution to the judges. Use the time wisely and ensure that you provide sufficient information to enable the judges to evaluate the solution based on the criteria.
+* You'll have 7 minutes to pitch your solution to the judges. Use the time wisely and ensure that you provide sufficient information to enable the judges to evaluate the solution based on the criteria. 
 
 * The judges will have 3 minutes to ask you clarifying questions, be brief and to the point in your answers.
 
@@ -48,11 +48,11 @@ From previous events we'd like to offer you the following tips:
 
 * Take time to research the business and industry to get an idea of typical business problems and how understanding data would help to address these. 
 
-* Data are not is. The word data is a plural noun so write "data are". Datum is the singular. Generally real-world data are messy and you can expect to find some issues with the dataset, even though basic pre-cleaning has been applied. 
+* Data are, not is. The word data is a plural noun so write "data are". Datum is the singular. Generally real-world data are messy and you can expect to find some issues with the dataset, even though basic pre-cleaning has been applied. 
 
 * A pitching workshop will be held before the event, please do make use of this to develop your skills.
 
-* Remember to have fun and use the opportunity to build your networks. 
+* Remember to have fun and use the opportunity to build your network. 
 
 ## 3. Data
 
@@ -60,11 +60,11 @@ From previous events we'd like to offer you the following tips:
 
 * Different types of businesses from different areas of the country was selected to provide different avenues of exploration.
 
-* Some basic client demographics has been provided as food for thought, this will only be available for Capitec clients that use the business. 
+* Some basic client demographics have been provided as food for thought, this will only be available for Capitec clients that used their cards the business. 
 
 * Given the limited view of each business provided, it is up to you to enhance with additional data sources you can find.
 
-* The specific business name cannot be shared, but since the area code is provided you could tag any known business in the town/city, if you want to use specific geolocation data. 
+* The specific business names cannot be shared, but since the area code is provided you could tag any known business in the town/city, if you want to use specific geolocation data. 
 
 ## 4. Additional Info
 
