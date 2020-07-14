@@ -68,4 +68,4 @@ From previous events we'd like to offer you the following tips:
 
 ## 4. Additional Info
 
-* An 'Ask the Expert' session is planned, details to be shared at a later stage, watch this space. 
+* An 'Ask the Expert' session will be hosted on the 16'th July at 17:00. [Meeting link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2f_%23%2fl%2fmeetup-join%2f19%3a46a94af25e8547ea8d656f7ef721fc8e%40thread.tacv2%2f1594637841534%3fcontext%3d%257b%2522Tid%2522%253a%2522a6fa3b03-0a3c-4258-8433-a120dffcd348%2522%252c%2522Oid%2522%253a%252241ee1961-f15b-4a92-bdbd-e9aed51a7c41%2522%257d%26anon%3dtrue&type=meetup-join&deeplinkId=a1b71987-1b72-4ea6-be12-a86c97f8db42&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true). Remember to use the MS teams channel for general questions and support. 
